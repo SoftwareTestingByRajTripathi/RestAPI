@@ -1,0 +1,19 @@
+{
+  "contractorEmail": "Interra2022@yopamail.com",
+  "contractorFirstName": "Raj",
+  "contractorMiddleName": "Kumar",
+  "contractorLastName": "Tripathi",
+  "contractorPhone": "9873894468",
+  "contractorBusinessName": "Interra Industry",
+  "contractorBusinessCountryCode": "AU",
+  "contractorBusinessACN": "1234567890",
+  "contractorBusinessABN": "9873894468",
+  "contractorBusinessEmail": "intbusiness2021@gmail.com",
+  "contractorBusinessAddress": "Noida",
+  "inviteeList": [
+    "terra2021@yopmail.com","terra2021@yopmail.com","terra2021@yopmail.com"
+  ],
+  "webhookCallBackUrl": "https://webhook.site/f2a4fb79-90f4-4d46-8208-59dc741007f8",
+  "webhookAPIToken": "xyz",
+  "webhookAuthenticationHeaderName": "Authorization"
+}

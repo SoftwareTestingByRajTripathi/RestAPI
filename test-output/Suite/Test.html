@@ -1,0 +1,189 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>22/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Fri Jan 13 15:27:39 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>21 seconds (21773 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SendEmail_InvitationToInvitee_Test_API.EmailInvitationWithRegisteredBusiness()'><b>EmailInvitationWithRegisteredBusiness</b><br>Test class: org.pineapple.testscripts.Post_Request_SendEmail_InvitationToInvitee_Test_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SendEmail_InvitationToInvitee_Test_API@12b0404f</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SendEmail_InvitationToInvitee_Test_API.EmailInvitationwithBlankInvitee()'><b>EmailInvitationwithBlankInvitee</b><br>Test class: org.pineapple.testscripts.Post_Request_SendEmail_InvitationToInvitee_Test_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SendEmail_InvitationToInvitee_Test_API@12b0404f</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SendEmail_InvitationToInvitee_Test_API.EmailInvitationwithInvitedBusiness()'><b>EmailInvitationwithInvitedBusiness</b><br>Test class: org.pineapple.testscripts.Post_Request_SendEmail_InvitationToInvitee_Test_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SendEmail_InvitationToInvitee_Test_API@12b0404f</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API.Get_PineappleBusinessID_InvalidExternalID()'><b>Get_PineappleBusinessID_InvalidExternalID</b><br>Test class: org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API@5276e6b0</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API.Get_PineappleBusinessID_InvalidToken()'><b>Get_PineappleBusinessID_InvalidToken</b><br>Test class: org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API@5276e6b0</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API.Get_PineappleBusinessID_InvitedExternalBusinessID()'><b>Get_PineappleBusinessID_InvitedExternalBusinessID</b><br>Test class: org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API@5276e6b0</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API.Get_PineappleBusinessID_RegisteredExternalBusinessID()'><b>Get_PineappleBusinessID_RegisteredExternalBusinessID</b><br>Test class: org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API@5276e6b0</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SignUp_TestScript_API.SignUpOnlyEmail()'><b>SignUpOnlyEmail</b><br>Test class: org.pineapple.testscripts.Post_Request_SignUp_TestScript_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SignUp_TestScript_API@419c5f1a</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SignUp_TestScript_API.SignUpPassMandateParameterwitoutCountrycode()'><b>SignUpPassMandateParameterwitoutCountrycode</b><br>Test class: org.pineapple.testscripts.Post_Request_SignUp_TestScript_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SignUp_TestScript_API@419c5f1a</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SignUp_TestScript_API.SignUpPassOnlyBusinessName()'><b>SignUpPassOnlyBusinessName</b><br>Test class: org.pineapple.testscripts.Post_Request_SignUp_TestScript_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SignUp_TestScript_API@419c5f1a</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SignUp_TestScript_API.SignUpPassOnlyCountrycode()'><b>SignUpPassOnlyCountrycode</b><br>Test class: org.pineapple.testscripts.Post_Request_SignUp_TestScript_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SignUp_TestScript_API@419c5f1a</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SignUp_TestScript_API.SignUpPassVerifiedEmailaddress()'><b>SignUpPassVerifiedEmailaddress</b><br>Test class: org.pineapple.testscripts.Post_Request_SignUp_TestScript_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SignUp_TestScript_API@419c5f1a</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SignUp_TestScript_API.SignUpwithAllMandateParameter()'><b>SignUpwithAllMandateParameter</b><br>Test class: org.pineapple.testscripts.Post_Request_SignUp_TestScript_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SignUp_TestScript_API@419c5f1a</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SignUp_TestScript_API.SignUpwithAllParameter()'><b>SignUpwithAllParameter</b><br>Test class: org.pineapple.testscripts.Post_Request_SignUp_TestScript_API</td>
+<td></td>
+<td>2</td>
+<td>org.pineapple.testscripts.Post_Request_SignUp_TestScript_API@419c5f1a</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SignUp_TestScript_API.SignUpwithBlankParameter()'><b>SignUpwithBlankParameter</b><br>Test class: org.pineapple.testscripts.Post_Request_SignUp_TestScript_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SignUp_TestScript_API@419c5f1a</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SignUp_TestScript_API.SignUpwithInvalidParameter()'><b>SignUpwithInvalidParameter</b><br>Test class: org.pineapple.testscripts.Post_Request_SignUp_TestScript_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SignUp_TestScript_API@419c5f1a</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SignUp_TestScript_API.SignUpwithInvalidToken()'><b>SignUpwithInvalidToken</b><br>Test class: org.pineapple.testscripts.Post_Request_SignUp_TestScript_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SignUp_TestScript_API@419c5f1a</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Post_Request_SignUp_TestScript_API.SignUpwithSameInviteeEmail()'><b>SignUpwithSameInviteeEmail</b><br>Test class: org.pineapple.testscripts.Post_Request_SignUp_TestScript_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Post_Request_SignUp_TestScript_API@419c5f1a</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API.resendBusinessRegistrationwithInvalidExternalBusinessID()'><b>resendBusinessRegistrationwithInvalidExternalBusinessID</b><br>Test class: org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API@769e7ee8</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API.resendBusinessRegistrationwithInvalidToken()'><b>resendBusinessRegistrationwithInvalidToken</b><br>Test class: org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API@769e7ee8</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API.resendBusinessRegistrationwithInvitedBusiness()'><b>resendBusinessRegistrationwithInvitedBusiness</b><br>Test class: org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API@769e7ee8</td></tr>
+<tr>
+<td title='org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API.resendBusinessRegistrationwithRegistratedBusiness()'><b>resendBusinessRegistrationwithRegistratedBusiness</b><br>Test class: org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API</td>
+<td></td>
+<td>0</td>
+<td>org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API@769e7ee8</td></tr>
+</table><p>
+</body>
+</html>

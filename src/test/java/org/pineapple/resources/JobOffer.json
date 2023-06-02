@@ -1,0 +1,18 @@
+{
+  "jobAddress": "SSS's, Erica, Erica, Victoria, Australia",
+  "customerName": "Rakhi",
+  "customerContactDetails": "9136342965",
+  "jobStartDate": "",
+  "jobCompletionDate": "",
+  "jobTitle": "",
+  "jobDescription": "",
+  "offerQuestionCloseDate": "",
+  "offerCloseDate": "",
+  "chargeOption": "FixedPrice",
+  "materialAmount": 0,
+  "labourAmount": 0,
+  "jobOfferType": "Private Offering",
+  "platformTypeID": 1,
+  "jobOfferCommitmentTimeOut": 0,
+  "sourceSystemJobOfferID": "string"
+}

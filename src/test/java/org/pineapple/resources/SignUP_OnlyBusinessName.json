@@ -1,0 +1,19 @@
+{
+  "contractorEmail": "",
+  "contractorFirstName": "",
+  "contractorMiddleName": "",
+  "contractorLastName": "",
+  "contractorPhone": "",
+  "contractorBusinessName": "RKT Industry",
+  "contractorBusinessCountryCode": "",
+  "contractorBusinessACN": "",
+  "contractorBusinessABN": "",
+  "contractorBusinessEmail": "",
+  "contractorBusinessAddress": "",
+  "inviteeList": [
+    
+  ],
+  "webhookCallBackUrl": "",
+  "webhookAPIToken": "",
+  "webhookAuthenticationHeaderName": ""
+}

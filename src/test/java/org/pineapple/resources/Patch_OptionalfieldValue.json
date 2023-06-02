@@ -1,0 +1,18 @@
+{
+  "jobAddress": "Jet Lane, Wellard, City Of Kwinana, Western Australia, 6170, Australia",
+  "customerName": "David Enterprises",
+  "customerContactDetails": "1086553456",
+  "jobStartDate": "2023-02-10",
+  "jobCompletionDate": "2023-02-18",
+  "jobTitle": "Joboffer1",
+  "jobDescription": "Electrical",
+  "isThirdPartyAllowed": false,
+  "offerQuestionCloseDate": "",
+  "offerCloseDate": "",
+  "chargeOption": "BidPrice",
+  "materialAmount": 0,
+  "labourAmount": 0,
+  "jobOfferType": "Private Offering",
+  "jobOfferCommitmentTimeOut": 0,
+  "version": 5
+}

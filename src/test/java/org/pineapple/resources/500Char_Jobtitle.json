@@ -1,0 +1,18 @@
+{
+  "jobAddress": "SSS's, Erica, Erica, Victoria, Australia",
+  "customerName": "Raj Kumar",
+  "customerContactDetails": "9136342965",
+  "jobStartDate": "2022-08-18",
+  "jobCompletionDate": "2022-08-31",
+  "jobTitle": "New joboffer-----------------------------------------------------------------hvbujhhhhhhhvgGHggggggggggggggggggggggggggghejbsajhdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddgggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+  "jobDescription": "New job from API",
+  "offerQuestionCloseDate": "2022-08-24",
+  "offerCloseDate": "2022-08-24",
+  "chargeOption": "FixedPrice",
+  "materialAmount": 123,
+  "labourAmount": 320,
+  "jobOfferType": "Private Offering",
+  "platformTypeID": 1,
+  "jobOfferCommitmentTimeOut": 3,
+  "sourceSystemJobOfferID": "string"
+}

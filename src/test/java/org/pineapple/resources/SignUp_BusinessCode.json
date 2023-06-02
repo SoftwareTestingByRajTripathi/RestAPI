@@ -1,0 +1,19 @@
+{
+  "contractorEmail": "",
+  "contractorFirstName": "",
+  "contractorMiddleName": "",
+  "contractorLastName": "Bansal",
+  "contractorPhone": "9873894468",
+  "contractorBusinessName": "Interra Industry",
+  "contractorBusinessCountryCode": "AU",
+  "contractorBusinessACN": "",
+  "contractorBusinessABN": "",
+  "contractorBusinessEmail": "",
+  "contractorBusinessAddress": "",
+  "inviteeList": [
+    ""
+  ],
+  "webhookCallBackUrl": "https://webhook.site/f2a4fb79-90f4-4d46-8208-59dc741007f8",
+  "webhookAPIToken": "xyz",
+  "webhookAuthenticationHeaderName": "Authorization"
+}

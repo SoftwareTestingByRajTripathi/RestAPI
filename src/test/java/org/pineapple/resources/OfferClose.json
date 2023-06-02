@@ -1,0 +1,18 @@
+{
+  "jobAddress": "Jet Lane, Wellard, City Of Kwinana, Western Australia, 6170, Australia",
+  "customerName": "Reha Enterprises",
+  "customerContactDetails": "6990",
+  "jobStartDate": "2023-01-23",
+  "jobCompletionDate": "2023-01-30",
+  "jobTitle": "Job",
+  "jobDescription": "Electrical",
+  "isThirdPartyAllowed": false,
+  "offerQuestionCloseDate": "2023-01-25",
+  "offerCloseDate": "2023-01-26",
+  "chargeOption": "BidPrice",
+  "materialAmount": 0,
+  "labourAmount": 0,
+  "jobOfferType": "Private Offering",
+  "jobOfferCommitmentTimeOut": 0,
+  "version": 19
+}

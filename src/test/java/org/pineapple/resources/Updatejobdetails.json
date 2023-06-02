@@ -1,0 +1,11 @@
+{
+  "customerName": "Rakhi agrawal",
+  "jobAddress": "Noida",
+  "customerContactDetails": "1234567890",
+  "jobStartDate": "2023-08-1",
+  "jobCompletionDate": "2023-08-31",
+  "jobTitle": "Postman job test",
+  "jobDescription": "New job details",
+  "version":"3"
+
+}

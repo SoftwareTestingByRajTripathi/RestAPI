@@ -1,0 +1,18 @@
+{
+  "jobAddress": "delhi",
+  "customerName": "Himanshu2 Enterprises",
+  "customerContactDetails": "1076553456",
+  "jobStartDate": "2023-02-10",
+  "jobCompletionDate": "2023-02-20",
+  "jobTitle": "Joboffer1",
+  "jobDescription": "",
+  "isThirdPartyAllowed": false,
+  "offerQuestionCloseDate": "",
+  "offerCloseDate": "",
+  "chargeOption": "BidPrice",
+  "materialAmount": 0,
+  "labourAmount": 0,
+  "jobOfferType": "Private Offering",
+  "jobOfferCommitmentTimeOut": 0,
+  "version": 8
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+    <class name="org.pineapple.testscripts.Post_Request_SignUp_TestScript_API"/>
+    <class name="org.pineapple.testscripts.Post_Request_SendEmail_InvitationToInvitee_Test_API"/>
+    <class name="org.pineapple.testscripts.Patch_Resend_business_registration_email_Test_API"/>
+    <class name="org.pineapple.testscripts.Get_PineApple_BusinessID_Test_API"/>
+   </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

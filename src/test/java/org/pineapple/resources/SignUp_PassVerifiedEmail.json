@@ -1,0 +1,19 @@
+{
+  "contractorEmail": "abc_1990@yopmail.com",
+  "contractorFirstName": "",
+  "contractorMiddleName": "",
+  "contractorLastName": "",
+  "contractorPhone": "",
+  "contractorBusinessName": "ABC2 Industry",
+  "contractorBusinessCountryCode": "AU",
+  "contractorBusinessACN": "",
+  "contractorBusinessABN": "1234567890",
+  "contractorBusinessEmail": "",
+  "contractorBusinessAddress": "",
+  "inviteeList": [
+    
+  ],
+  "webhookCallBackUrl": "",
+  "webhookAPIToken": "",
+  "webhookAuthenticationHeaderName": ""
+}

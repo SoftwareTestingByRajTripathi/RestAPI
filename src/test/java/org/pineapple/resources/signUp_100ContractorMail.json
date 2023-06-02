@@ -1,0 +1,19 @@
+{
+  "contractorEmail": "RakhiBTest@yopmail.com, RakhiBTest@yopmail.com, RakhiBTest@yopmail.com, RakhiBTest@yopmail.com, RakhiBTest@yopmail.com, RakhiBTest@yopmail.com, RakhiBTest@yopmail.com, RakhiBTest@yopmail.com, RakhiBTest@yopmail.com",
+  "contractorFirstName": "Rakhi",
+  "contractorMiddleName": "",
+  "contractorLastName": "",
+  "contractorPhone": "",
+  "contractorBusinessName": "",
+  "contractorBusinessCountryCode": "",
+  "contractorBusinessACN": "",
+  "contractorBusinessABN": "",
+  "contractorBusinessEmail": "",
+  "contractorBusinessAddress": "",
+  "inviteeList": [
+   
+  ],
+  "webhookCallBackUrl": "",
+  "webhookAPIToken": "",
+  "webhookAuthenticationHeaderName": "Authorization"
+}

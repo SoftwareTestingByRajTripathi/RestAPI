@@ -1,0 +1,19 @@
+{
+  "contractorEmail": "",
+  "contractorFirstName": "",
+  "contractorMiddleName": "",
+  "contractorLastName": "",
+  "contractorPhone": "",
+  "contractorBusinessName": "",
+  "contractorBusinessCountryCode": "AU",
+  "contractorBusinessACN": "",
+  "contractorBusinessABN": "123456",
+  "contractorBusinessEmail": "",
+  "contractorBusinessAddress": "",
+  "inviteeList": [
+    ""
+  ],
+  "webhookCallBackUrl": "",
+  "webhookAPIToken": "",
+  "webhookAuthenticationHeaderName": ""
+}

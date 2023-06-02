@@ -1,0 +1,19 @@
+{
+  "contractorEmail": "raju2021yopmail.com",
+  "contractorFirstName": "",
+  "contractorMiddleName": "",
+  "contractorLastName": "",
+  "contractorPhone": "",
+  "contractorBusinessName": "Raju Industry",
+  "contractorBusinessCountryCode": "AU",
+  "contractorBusinessACN": "",
+  "contractorBusinessABN": "",
+  "contractorBusinessEmail": "",
+  "contractorBusinessAddress": "",
+  "inviteeList": [
+    ""
+  ],
+  "webhookCallBackUrl": "",
+  "webhookAPIToken": "",
+  "webhookAuthenticationHeaderName": ""
+}

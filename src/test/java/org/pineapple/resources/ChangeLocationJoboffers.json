@@ -1,0 +1,18 @@
+{
+  "jobAddress": "jersey",
+  "customerName": "Ravi Taneja",
+  "customerContactDetails": "7658436758",
+  "jobStartDate": "",
+  "jobCompletionDate": "",
+  "jobDescription": "vgh",
+  "offerQuestionCloseDate": "",
+  "offerCloseDate": "",
+  "chargeOption": "FixedPrice",
+  "materialAmount": 0,
+  "labourAmount": 0,
+  "jobOfferType": "Private Offering",
+  "platformTypeID": 1,
+  "jobOfferCommitmentTimeOut": 0,
+  "sourceSystemJobOfferID": "1",
+  "isThirdPartyAllowed": false
+}

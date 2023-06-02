@@ -1,0 +1,18 @@
+{
+  "jobAddress": "Jet Lane, Wellard, City Of Kwinana, Western Australia, 6170, Australia",
+  "customerName": "Rehani Enterprises",
+  "customerContactDetails": "6990",
+  "jobStartDate": "2023-01-25",
+  "jobCompletionDate": "2023-01-30",
+  "jobTitle": "Job",
+  "jobDescription": "basket",
+  "isThirdPartyAllowed": false,
+  "offerQuestionCloseDate": "2023-01-28",
+  "offerCloseDate": "2023-01-29",
+  "chargeOption": "BidPrice",
+  "materialAmount": 0,
+  "labourAmount": 0,
+  "jobOfferType": "Private Offering",
+  "jobOfferCommitmentTimeOut": 2,
+  "version": 6
+}

@@ -1,0 +1,18 @@
+{
+  "jobAddress": "Jet Lane, Wellard, City Of Kwinana, Western Australia, 6170, Australia",
+  "customerName": "David1 Enterprises",
+  "customerContactDetails": "69",
+  "jobStartDate": "2023-01-23",
+  "jobCompletionDate": "2023-01-30",
+  "jobTitle": "Jobofferqadate",
+  "jobDescription": "Electrical assistance",
+  "isThirdPartyAllowed": false,
+  "offerQuestionCloseDate": "2023-01-24",
+  "offerCloseDate": "",
+  "chargeOption": "BidPrice",
+  "materialAmount": 0,
+  "labourAmount": 0,
+  "jobOfferType": "Private Offering",
+  "jobOfferCommitmentTimeOut": 0,
+  "version": 10
+}

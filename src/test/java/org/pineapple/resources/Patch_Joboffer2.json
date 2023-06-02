@@ -1,0 +1,18 @@
+{
+  "jobAddress": "nasik",
+  "customerName": "Himanshu3 Enterprises",
+  "customerContactDetails": "1076553478",
+  "jobStartDate": "2023-02-05",
+  "jobCompletionDate": "2023-02-10",
+  "jobTitle": "Joboffer1",
+  "jobDescription": "electrical",
+  "isThirdPartyAllowed": false,
+  "offerQuestionCloseDate": "",
+  "offerCloseDate": "",
+  "chargeOption": "BidPrice",
+  "materialAmount": 0,
+  "labourAmount": 0,
+  "jobOfferType": "Private Offering",
+  "jobOfferCommitmentTimeOut": 0,
+  "version": 6
+}
